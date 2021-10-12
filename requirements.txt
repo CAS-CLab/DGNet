@@ -1,0 +1,4 @@
+prettytable
+matplotlib
+pretrainedmodels
+numpy
