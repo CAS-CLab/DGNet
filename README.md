@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 ### Trained models
-Our trained models can be found here: [Google Drive](https://drive.google.com/file/d/1_-G5eHm3PUrrorjzp8w17W7ogZZoTElk/view?usp=sharing). Unzip and place them into the DGNet folder.
+Our trained models can be found here: [Google Drive](https://drive.google.com/file/d/1_-G5eHm3PUrrorjzp8w17W7ogZZoTElk/view?usp=sharing). And the pretrained cifar10 models can be found here: [Google Drive](https://drive.google.com/file/d/15sM2W2ADqtq5Gr8RTdaFalPK7qIw0VXF/view?usp=sharing). Unzip and place them into the DGNet folder.
 
 ### Evaluate a trained DGNet
 
